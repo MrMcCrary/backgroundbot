@@ -1,6 +1,6 @@
 ver = 1.0
 sub = 'earthporn'
-save_images = True
+save_images = False
 sleeptime = 1800
 postlimit = 20
 username = 'USERNAME'

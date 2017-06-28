@@ -1,0 +1,9 @@
+ver = 1.0
+sub = 'earthporn'
+save_images = True
+sleeptime = 1800
+postlimit = 20
+username = 'USERNAME'
+password = 'PASSWORD'
+client_id = 'CLIENT ID'
+client_secret = 'CLIENT SECRET'
